@@ -1,0 +1,1 @@
+{"$schema":"https://json-schema.org/draft/2020-12/schema","title":"Product Truth","type":"object","required":["product_id","version","source_ref","attributes"],"properties":{"product_id":{"type":"string"},"version":{"type":"string"},"source_ref":{"type":"string"},"attributes":{"type":"object"}}}

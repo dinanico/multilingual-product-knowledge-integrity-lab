@@ -1,0 +1,4 @@
+{"jobs":[
+  {"job_id":"job:nexavolt:clean:en-de:1.0.0","product_id":"nexavolt:PSX-24010","source_language":"en","target_language":"de","source_version":"1.0.0","target_version":"1.0.0","translation_method":"fixture","required_claim_ids":["input_phase_count","output_voltage","nominal_output_current","mounting","interface"]},
+  {"job_id":"job:nexavolt:fault:en-de:1.0.0","product_id":"nexavolt:PSX-24010","source_language":"en","target_language":"de","source_version":"1.0.0","target_version":"1.0.0-drift","translation_method":"fixture","required_claim_ids":["input_phase_count","output_voltage","nominal_output_current","mounting","interface"]}
+]}

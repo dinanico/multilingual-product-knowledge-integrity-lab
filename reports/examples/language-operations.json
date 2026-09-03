@@ -1,0 +1,8 @@
+{
+  "artifact_type": "curated deterministic example",
+  "source_language": "en",
+  "target_surface_forms": {"de": "einphasigem AC-Eingang", "it": "ingresso AC monofase"},
+  "normalized_claim": {"attribute_id": "input_phase_count", "value": 1, "unit": "phase"},
+  "qa_findings": [],
+  "risk_decision": "AUTO_PASS"
+}

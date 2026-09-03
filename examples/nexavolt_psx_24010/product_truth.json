@@ -1,0 +1,14 @@
+{
+  "product_id": "nexavolt:PSX-24010",
+  "manufacturer": "NexaVolt Labs (fictional)",
+  "product_name": "NexaVolt PSX-24010",
+  "version": "1.0.0",
+  "source_ref": "fictional-product-master-record",
+  "attributes": {
+    "mounting": {"value": "DIN_rail_NS35", "criticality": "medium", "concept_id": "concept:din_rail_mounting"},
+    "input_phase_count": {"value": 1, "unit": "phase", "criticality": "critical"},
+    "output_voltage": {"value": 24, "unit": "V DC", "criticality": "critical"},
+    "nominal_output_current": {"value": 10, "unit": "A", "criticality": "critical"},
+    "interface": {"value": "NFC", "criticality": "medium"}
+  }
+}

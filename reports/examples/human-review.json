@@ -1,0 +1,9 @@
+{
+  "artifact_type": "curated deterministic example",
+  "finding": {"type": "FACTUAL_DRIFT", "attribute_id": "input_phase_count", "expected": 1, "actual": 3, "severity": "critical"},
+  "risk_decision": "HUMAN_REVIEW_REQUIRED",
+  "reviewer_decision": "CORRECTION_REQUIRED",
+  "corrected_target_version": "1.0.1",
+  "post_review_qa": "PASS",
+  "publication_status": "APPROVED_FOR_PUBLICATION"
+}

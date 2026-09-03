@@ -1,0 +1,5 @@
+{"terminology_profile_id":"nexavolt-core-v1","fictional_example":true,"terms":[
+  {"concept_id":"concept:single_phase_ac","source_term":"single-phase AC input","targets":{"de":"einphasigem AC-Eingang","it":"ingresso AC monofase"}},
+  {"concept_id":"concept:din_rail_mounting","source_term":"DIN rail mounting","targets":{"de":"DIN-Schienenmontage","it":"montaggio su guida DIN"}},
+  {"concept_id":"concept:industrial_power_supply","source_term":"industrial power supply","targets":{"de":"industrielles Netzteil","it":"alimentatore industriale"}}
+]}

@@ -1,0 +1,4 @@
+{"answers":[
+  {"question_id":"Q-EN-001","language":"en","provider":"deterministic-fixture","answer_text":"The output is 24 V DC at 10 A.","sources_used":[{"variant_language":"en","variant_version":"1.0.0"}],"extracted_claims":{"output_voltage":{"value":24,"unit":"V DC"},"nominal_output_current":{"value":10,"unit":"A"}}},
+  {"question_id":"Q-IT-001","language":"it","provider":"deterministic-fixture","answer_text":"Il prodotto usa un ingresso AC trifase.","sources_used":[{"variant_language":"it","variant_version":"1.0.0"}],"extracted_claims":{"input_phase_count":{"value":3,"unit":"phase"}}}
+]}

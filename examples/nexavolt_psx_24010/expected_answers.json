@@ -1,0 +1,4 @@
+{"answers":[
+  {"question_id":"Q-EN-001","expected_claims":{"output_voltage":{"value":24,"unit":"V DC"},"nominal_output_current":{"value":10,"unit":"A"}}},
+  {"question_id":"Q-IT-001","expected_claims":{"input_phase_count":{"value":1,"unit":"phase"}}}
+]}

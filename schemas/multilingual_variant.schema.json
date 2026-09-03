@@ -1,0 +1,1 @@
+{"$schema":"https://json-schema.org/draft/2020-12/schema","title":"Multilingual Variant","type":"object","required":["variant_id","language","version","claims"],"properties":{"variant_id":{"type":"string"},"language":{"type":"string"},"version":{"type":"string"},"claims":{"type":"object"}}}

@@ -1,0 +1,6 @@
+{
+  "artifact_type": "curated deterministic example",
+  "scenario": "Published Italian source drift reaches a downstream AI answer.",
+  "baseline": {"product_truth": {"input_phase_count": 1}, "published_it": {"input_phase_count": 3}, "observed_ai": {"input_phase_count": 3}, "diagnosis": "PUBLISHED_VARIANT_DRIFT"},
+  "after_remediation": {"product_truth": {"input_phase_count": 1}, "published_it": {"input_phase_count": 1, "version": "1.0.1"}, "observed_ai": {"input_phase_count": 1}, "result": "PASS"}
+}
